@@ -59,5 +59,5 @@ function removeElementFromEndOfArray(array) {
   array = [1 , 2, 3]
 
   array.splice(3)
-  
+
 }

@@ -53,3 +53,11 @@ function removeElementFromBeginningOfArray(array) {
 return array.slice(1)
 
 }
+
+function removeElementFromEndOfArray(array) {
+
+  array = [1 , 2, 3]
+
+  array.splice(3)
+  
+}

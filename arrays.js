@@ -56,9 +56,9 @@ return array.slice(1)
 
 function removeElementFromEndOfArray(array) {
 
-  array = [1 , 2, 3]
+  array = [1 , 2,]
 
-  array.splice(3)
+  array.splice(2)
 
   return array
 }

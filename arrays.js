@@ -33,3 +33,10 @@ function accessElementInArray(array, index) {
   return array[index];
 
 }
+
+
+function   destructivelyRemoveElementFromEndOfArray(array) {
+
+     array.pop()
+     return array
+}

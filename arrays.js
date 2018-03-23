@@ -57,6 +57,6 @@ return array.slice(1)
 function removeElementFromEndOfArray(array) {
 
   var iceCreams = ["chocolate", "vanilla", "raspberry"]
- 
+
 iceCreams.slice(0, iceCreams.length - 1)
 }

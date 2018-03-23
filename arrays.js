@@ -60,5 +60,6 @@ function removeElementFromEndOfArray(array) {
 
   array.splice(2)
 
+  array = [1, 2]
 
 }

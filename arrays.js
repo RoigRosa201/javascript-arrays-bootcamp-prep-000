@@ -49,7 +49,7 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
 
 
 function removeElementFromBeginningOfArray(array) {
-var removeElementFromBeginningOfArray(array) = 1
+
 return array.slice()
 
 }
